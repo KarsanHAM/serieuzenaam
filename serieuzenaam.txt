@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 sdafasdfasddsgsdfgsdfgdgdfasfasfasdadfasdfdsafasdfsafdsasdfc
+||||||| merged common ancestors
+sdafasdfasddsgsdfgsdfgdg
+=======
+sdafasdfasddsgsdfgsdfgdgerteryrtsdfhdfhdfhdfh
+>>>>>>> 70009198a4ad35e6b0acdc6aa2869a1b34fd0a3e
